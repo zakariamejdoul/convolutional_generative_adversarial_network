@@ -34,4 +34,4 @@ _Zakaria Mejdoul_
 
 
 
-<br>_Enjoy generating and classifying handwritten digits :exclamation: :v:_
+<br><br>_Enjoy generating and classifying handwritten digits :exclamation: :v:_
