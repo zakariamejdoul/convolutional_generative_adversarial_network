@@ -11,7 +11,9 @@ pip install -r requirements.txt
 ## Behaviour
 In this project, we will implement Deep Convolutional Generative Adversarial Network `(DCGAN)` using PyTorch to generate handwritten digits. You will create a generator that will learn to generate images that look real and a discriminator that will learn to tell real images apart from fakes.
 
-![picture alt](static/dcgan.png "Title is optional")
+![picture alt](static/dcgan.png "DCGAN Process")<br><br>
+![picture alt](static/dcgan2.png "DCGAN_Gen_Disc")
+
 
 ## Principe
 Generative Adversarial Network (GAN) is a famous neural network model, its function is to input a set of noise and then generate a set of fake pictures through the Generator, and then use the Discriminator to distinguish whether it is a real picture. <br>First train a simple Discriminator classifier, and then train a Generator. The two models fight and train repeatedly, and finally take the trained Generator model. We can randomly generate noise and generate pictures at will!
