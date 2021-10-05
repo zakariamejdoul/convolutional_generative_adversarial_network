@@ -27,6 +27,7 @@ The notebook of project is divided on parts that are :
 5. Create Generator Network
 6. Create Loss Function and Load Optimizers
 7. Training GAN Model
+8. Model Evaluation
 
 ## Author
 _Zakaria Mejdoul_
