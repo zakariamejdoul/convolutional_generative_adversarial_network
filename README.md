@@ -29,6 +29,23 @@ The notebook of project is divided on parts that are :
 7. Training GAN Model
 8. Model Evaluation
 
+## Results
+1. Generator and Discriminator Loss During Training :
+
+![picture alt](static/gen_disc_loss.png "DCGAN_Gen_Disc")
+
+2. Progression of Generation of Handwritten Digits During Training :
+
+![picture alt](static/0.png "DCGAN_Gen_Disc")![picture alt](static/3000.png "DCGAN_Gen_Disc") ![picture alt](static/7000.png "DCGAN_Gen_Disc")![picture alt](static/9000.png "DCGAN_Gen_Disc")
+>After 8000 batches, the generator started to generate real numbers as seen in the figures above
+
+3. Real and Fake Handwritten Digits Perception After Training :
+
+![picture alt](static/real_vs_fake.png "DCGAN_Gen_Disc")
+
+4. Random Generation of Handwritten Digits After Training :
+
+![picture alt](static/final_gen.png "DCGAN_Gen_Disc")
 ## Author
 _Zakaria Mejdoul_
 
