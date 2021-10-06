@@ -38,7 +38,7 @@ The notebook of project is divided on parts that are :
 
 ![picture alt](static/0.png "DCGAN_Gen_Disc")![picture alt](static/3000.png "DCGAN_Gen_Disc") 
 <br>![picture alt](static/7000.png "DCGAN_Gen_Disc")![picture alt](static/9000.png "DCGAN_Gen_Disc")
->After 8000 batches, the generator started to generate real numbers as seen in the figures above
+>After 8000 batches, the generator started to generate real numbers as seen in the figures above.
 
 3. Real and Fake Handwritten Digits Perception After Training :
 
